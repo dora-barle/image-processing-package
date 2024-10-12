@@ -20,6 +20,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 
 ```bash
 pip install image-processing-dora-barle
+pip install -i https://test.pypi.org/simple/ image-processing-dora-barle
 ```
 
 ## How to use
